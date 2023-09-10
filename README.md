@@ -2,36 +2,63 @@
 
 > 💡 머신러닝-딥러닝 입문자가 꼭 읽어야 할 논문 리스트
 
+## Principles 
+
+- [Stochastic Gradient Descent](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-23/issue-3/Stochastic-Estimation-of-the-Maximum-of-a-Regression-Function/10.1214/aoms/1177729392.full)
+- [Error Backpropagation](https://www.nature.com/articles/323533a0)
+- [Error Backpropagation through time(BPTT): ? et al.]()
+- [Truncated Error Backpropagation through time(TBTT): ? et al.]()
+
+## Components
+
+- [Convolutional Neural Networks: Lecun et al.](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+- [Recurrent Neural Networks: Romelhart et al.](https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf)
+- [Long Shot Term Memory: Shumidhuber et al.](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- [Gated Recurrent Unit: Cho et al.](https://aclanthology.org/D14-1179.pdf)
+- [Bahdanau Attention: Bahdanau et al.](https://arxiv.org/pdf/1409.0473.pdf)
+- [Luong Attention: Luong et al.](https://aclanthology.org/D15-1166.pdf)
+- [Self-Attention: Vaswani et al.](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
 ## 컴퓨터 비전 (Computer Vision):
 
-- [AlexNet: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks.](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-- [VGGNet: Simonyan, K., & Zisserman, A. (2014). Very Deep Convolutional Networks for Large-Scale Image Recognition.](https://arxiv.org/abs/1409.1556)
-- [GoogLeNet (Inception): Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., ... & Rabinovich, A. (2015). Going Deeper with Convolutions.](https://arxiv.org/abs/1409.4842)
-- [ResNet: He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition.](https://arxiv.org/abs/1512.03385)
-- [YOLO (You Only Look Once): Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). You Only Look Once: Unified, Real-Time Object Detection.](https://arxiv.org/abs/1506.02640)
-- [Mask R-CNN: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask R-CNN.](https://arxiv.org/abs/1703.06870)
-- [BERT: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Bidirectional Encoder Representations from Transformers.](https://arxiv.org/abs/1810.04805)
+- [ImageNet Classification with Deep Convolutional Neural Networks(AlexNet): Krizhevsky et al.](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+- [Very Deep Convolutional Networks for Large-Scale Image Recognition(VGGNet): Simonyan et al.](https://arxiv.org/abs/1409.1556)
+- [Going Deeper with Convolutions(GoogLeNet): Szegedy et al.](https://arxiv.org/abs/1409.4842)
+- [Deep Residual Learning for Image Recognition(ResNet): He et al.](https://arxiv.org/abs/1512.03385)
+- [You Only Look Once: Unified, Real-Time Object Detection(YOLO): Redmon et al.](https://arxiv.org/abs/1506.02640)
+- [Mask R-CNN: He et al.](https://arxiv.org/abs/1703.06870)
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale(Vision Transformer; ViT)](https://arxiv.org/pdf/2010.11929.pdf)
+- [Masked Autoencoders are scalable Vision Learners: He et al.](https://arxiv.org/pdf/2111.06377.pdf)
 
 ## 자연어 처리 (Natural Language Processing, NLP):
 
-- [Word2Vec: Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality.](https://arxiv.org/abs/1310.4546)
-- [LSTM (Long Short-Term Memory): Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory.](https://www.bioinf.jku.at/publications/older/2604.pdf)
-- [Attention is All You Need: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Kaiser, Ł. (2017). Attention Is All You Need.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjam7D8h5-BAxXqsFYBHQMSC0IQFnoECBAQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449)
-- [BERT: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Bidirectional Encoder Representations from Transformers.](https://arxiv.org/abs/1810.04805)
-- [GPT-3: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language Models are Few-Shot Learners.](https://arxiv.org/abs/2005.14165)
+- [Word2Vec: Mikolov et al.](https://arxiv.org/abs/1310.4546)
+- [Bidirectional Encoder Representations from Transformers(BERT): Devlin et al.](https://arxiv.org/abs/1810.04805)
+- [Language Models are Few-Shot Learners(GPT-3): Brown et al.](https://arxiv.org/abs/2005.14165)
+- [Training language models to follow instructions with human feedback(InstructGPT): Ouyang et al.](https://arxiv.org/abs/2203.02155)
 
 ## 음성 처리 (Speech Processing):
 
-- [Deep Speech: Hinton, G., Deng, L., Yu, D., Dahl, G. E., Mohamed, A. R., Jaitly, N., ... & Kingsbury, B. (2012). Deep Neural Networks for Acoustic Modeling in Speech Recognition.](https://ieeexplore.ieee.org/document/6296526)
-- [Wavenet: van den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (2016). Wavenet: A Generative Model for Raw Audio.](https://arxiv.org/abs/1609.03499)
-- [Listen, Attend and Spell (LAS): Chan, W., Jaitly, N., Le, Q., & Vinyals, O. (2016). Listen, Attend and Spell.](https://arxiv.org/abs/1508.01211)
+- [Deep Neural Networks for Acoustic Modeling in Speech Recognition(Deep Speech): Hinton et al.](https://ieeexplore.ieee.org/document/6296526)
+- [A Generative Model for Raw Audio(Wavenet): van den Oord et al.](https://arxiv.org/abs/1609.03499)
+- [Listen, Attend and Spell (LAS): Chan et al.](https://arxiv.org/abs/1508.01211)
 
 ## 강화 학습 (Reinforcement Learning):
 
-- [DQN (Deep Q-Network): Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Petersen, S. (2015). Human-level control through deep reinforcement learning. ](https://www.nature.com/articles/nature14236)
-- [A3C (Asynchronous Advantage Actor-Critic): Mnih, V., Badia, A. P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., ... & Kavukcuoglu, K. (2016). Asynchronous methods for deep reinforcement learning.](https://arxiv.org/abs/1602.01783)
-- [PPO (Proximal Policy Optimization): Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization Algorithms.](https://arxiv.org/abs/1707.06347)
-- [D3QN (Distributed Distributional Deterministic Policy Gradients): Barth-Maron, G., Hoffman, M. W., Budden, D., Dabney, W., Horgan, D., Muldal, A., ... & Lillicrap, T. (2018). Distributed Distributional Deterministic Policy Gradients.](https://arxiv.org/abs/1804.08617)
+- [Human-level control through deep reinforcement learning(Deep Q-Network; DQN): Mnih et al.](https://www.nature.com/articles/nature14236)
+- [Combining Improvements in Deep Reinforcement Learning(Rainbow DQN): Hessel et al.](https://arxiv.org/abs/1710.02298)
+- [Policy Gradient Methods for Reinforcement Learning with Function Approximation(REINFORCE): Sutton et al.](https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)
+- [Continuous control with deep reinforcement learning(Deep Deterministic Policy Gradient; DDPG): Lilicrap et al.](https://arxiv.org/abs/1509.02971)
+- [Proximal Policy Optimization Algorithms(Proximal Policy Optimization; PPO): Schulman et al.](https://arxiv.org/abs/1707.06347)
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm: Silver et al.](https://arxiv.org/abs/1712.01815)
+- [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model(MuZero): Schrittwieser et al.](https://arxiv.org/abs/1911.08265)
+
+
+## Computational Optimisations
+
+- [Asynchronous methods for deep reinforcement learning(Asynchronous Advantage Actor Critic; A3C): Mnih et al.](https://arxiv.org/abs/1602.01783)
+- [Distributed Distributional Deterministic Policy Gradients(D4PG): Barth-Maron et al.](https://arxiv.org/abs/1804.08617)
+- [Mastering Atari Games with Limited Data: Ye et al.](https://arxiv.org/abs/2111.00210)
 
 <!--
 ## 컴퓨터 비전 (Computer Vision):
