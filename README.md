@@ -60,6 +60,12 @@
 - [Distributed Distributional Deterministic Policy Gradients(D4PG): Barth-Maron et al.](https://arxiv.org/abs/1804.08617)
 - [Mastering Atari Games with Limited Data: Ye et al.](https://arxiv.org/abs/2111.00210)
 
+### Some References
+
+- [Papers You Must Read (PYMR) - Korea Univ. DS & BA Lab.](https://sustaining-starflower-aff.notion.site/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
+
+
+
 <!--
 ## 컴퓨터 비전 (Computer Vision):
 ### 이미지 분류 (Image Classification): 이미지가 어떤 객체나 카테고리에 속하는지 분류합니다.
