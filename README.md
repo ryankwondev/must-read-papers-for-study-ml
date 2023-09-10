@@ -19,7 +19,7 @@
 - [Luong Attention: Luong et al.](https://aclanthology.org/D15-1166.pdf)
 - [Self-Attention: Vaswani et al.](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
-## omputer Vision
+## Computer Vision
 
 - [ImageNet Classification with Deep Convolutional Neural Networks(AlexNet): Krizhevsky et al.](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition(VGGNet): Simonyan et al.](https://arxiv.org/abs/1409.1556)
@@ -30,7 +30,7 @@
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale(Vision Transformer; ViT)](https://arxiv.org/pdf/2010.11929.pdf)
 - [Masked Autoencoders are scalable Vision Learners: He et al.](https://arxiv.org/pdf/2111.06377.pdf)
 
-## Natural Language Processing; NLP
+## Natural Language Processing
 
 - [Word2Vec: Mikolov et al.](https://arxiv.org/abs/1310.4546)
 - [Bidirectional Encoder Representations from Transformers(BERT): Devlin et al.](https://arxiv.org/abs/1810.04805)
