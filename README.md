@@ -14,36 +14,24 @@
 
 ## 자연어 처리 (Natural Language Processing, NLP):
 
-[Word2Vec: Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality.
-](https://arxiv.org/abs/1310.4546)
-[LSTM (Long Short-Term Memory): Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory.
-](https://www.bioinf.jku.at/publications/older/2604.pdf)
-[Attention is All You Need: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Kaiser, Ł. (2017). Attention Is All You Need.
-](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjam7D8h5-BAxXqsFYBHQMSC0IQFnoECBAQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449)
-[BERT: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Bidirectional Encoder Representations from Transformers.
-](https://arxiv.org/abs/1810.04805)
-[GPT-3: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language Models are Few-Shot Learners.
-](https://arxiv.org/abs/2005.14165)
+- [Word2Vec: Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality.](https://arxiv.org/abs/1310.4546)
+- [LSTM (Long Short-Term Memory): Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory.](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- [Attention is All You Need: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Kaiser, Ł. (2017). Attention Is All You Need.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjam7D8h5-BAxXqsFYBHQMSC0IQFnoECBAQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449)
+- [BERT: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Bidirectional Encoder Representations from Transformers.](https://arxiv.org/abs/1810.04805)
+- [GPT-3: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language Models are Few-Shot Learners.](https://arxiv.org/abs/2005.14165)
 
 ## 음성 처리 (Speech Processing):
 
-[Deep Speech: Hinton, G., Deng, L., Yu, D., Dahl, G. E., Mohamed, A. R., Jaitly, N., ... & Kingsbury, B. (2012). Deep Neural Networks for Acoustic Modeling in Speech Recognition.
-](https://ieeexplore.ieee.org/document/6296526)
-[Wavenet: van den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (2016). Wavenet: A Generative Model for Raw Audio.
-](https://arxiv.org/abs/1609.03499)
-[Listen, Attend and Spell (LAS): Chan, W., Jaitly, N., Le, Q., & Vinyals, O. (2016). Listen, Attend and Spell.
-](https://arxiv.org/abs/1508.01211)
+- [Deep Speech: Hinton, G., Deng, L., Yu, D., Dahl, G. E., Mohamed, A. R., Jaitly, N., ... & Kingsbury, B. (2012). Deep Neural Networks for Acoustic Modeling in Speech Recognition.](https://ieeexplore.ieee.org/document/6296526)
+- [Wavenet: van den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (2016). Wavenet: A Generative Model for Raw Audio.](https://arxiv.org/abs/1609.03499)
+- [Listen, Attend and Spell (LAS): Chan, W., Jaitly, N., Le, Q., & Vinyals, O. (2016). Listen, Attend and Spell.](https://arxiv.org/abs/1508.01211)
 
 ## 강화 학습 (Reinforcement Learning):
 
-[DQN (Deep Q-Network): Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Petersen, S. (2015). Human-level control through deep reinforcement learning.
-](https://www.nature.com/articles/nature14236)
-[A3C (Asynchronous Advantage Actor-Critic): Mnih, V., Badia, A. P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., ... & Kavukcuoglu, K. (2016). Asynchronous methods for deep reinforcement learning.
-](https://arxiv.org/abs/1602.01783)
-[PPO (Proximal Policy Optimization): Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization Algorithms.
-](https://arxiv.org/abs/1707.06347)
-[D3QN (Distributed Distributional Deterministic Policy Gradients): Barth-Maron, G., Hoffman, M. W., Budden, D., Dabney, W., Horgan, D., Muldal, A., ... & Lillicrap, T. (2018). Distributed Distributional Deterministic Policy Gradients.
-](https://arxiv.org/abs/1804.08617)
+- [DQN (Deep Q-Network): Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Petersen, S. (2015). Human-level control through deep reinforcement learning. ](https://www.nature.com/articles/nature14236)
+- [A3C (Asynchronous Advantage Actor-Critic): Mnih, V., Badia, A. P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., ... & Kavukcuoglu, K. (2016). Asynchronous methods for deep reinforcement learning.](https://arxiv.org/abs/1602.01783)
+- [PPO (Proximal Policy Optimization): Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization Algorithms.](https://arxiv.org/abs/1707.06347)
+- [D3QN (Distributed Distributional Deterministic Policy Gradients): Barth-Maron, G., Hoffman, M. W., Budden, D., Dabney, W., Horgan, D., Muldal, A., ... & Lillicrap, T. (2018). Distributed Distributional Deterministic Policy Gradients.](https://arxiv.org/abs/1804.08617)
 
 <!--
 ## 컴퓨터 비전 (Computer Vision):
