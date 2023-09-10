@@ -1,4 +1,4 @@
-# Must Read Papers for ML Newbie (Updated Sep'23)
+# Must Read Papers for Study ML (Updated Sep'23)
 
 > 💡 머신러닝-딥러닝 입문자가 꼭 읽어야 할 논문 리스트
 
@@ -19,7 +19,7 @@
 - [Luong Attention: Luong et al.](https://aclanthology.org/D15-1166.pdf)
 - [Self-Attention: Vaswani et al.](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
-## 컴퓨터 비전 (Computer Vision):
+## omputer Vision
 
 - [ImageNet Classification with Deep Convolutional Neural Networks(AlexNet): Krizhevsky et al.](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition(VGGNet): Simonyan et al.](https://arxiv.org/abs/1409.1556)
@@ -30,20 +30,20 @@
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale(Vision Transformer; ViT)](https://arxiv.org/pdf/2010.11929.pdf)
 - [Masked Autoencoders are scalable Vision Learners: He et al.](https://arxiv.org/pdf/2111.06377.pdf)
 
-## 자연어 처리 (Natural Language Processing, NLP):
+## Natural Language Processing; NLP
 
 - [Word2Vec: Mikolov et al.](https://arxiv.org/abs/1310.4546)
 - [Bidirectional Encoder Representations from Transformers(BERT): Devlin et al.](https://arxiv.org/abs/1810.04805)
 - [Language Models are Few-Shot Learners(GPT-3): Brown et al.](https://arxiv.org/abs/2005.14165)
 - [Training language models to follow instructions with human feedback(InstructGPT): Ouyang et al.](https://arxiv.org/abs/2203.02155)
 
-## 음성 처리 (Speech Processing):
+## Speech Processing
 
 - [Deep Neural Networks for Acoustic Modeling in Speech Recognition(Deep Speech): Hinton et al.](https://ieeexplore.ieee.org/document/6296526)
 - [A Generative Model for Raw Audio(Wavenet): van den Oord et al.](https://arxiv.org/abs/1609.03499)
 - [Listen, Attend and Spell (LAS): Chan et al.](https://arxiv.org/abs/1508.01211)
 
-## 강화 학습 (Reinforcement Learning):
+## Reinforcement Learning
 
 - [Human-level control through deep reinforcement learning(Deep Q-Network; DQN): Mnih et al.](https://www.nature.com/articles/nature14236)
 - [Combining Improvements in Deep Reinforcement Learning(Rainbow DQN): Hessel et al.](https://arxiv.org/abs/1710.02298)
